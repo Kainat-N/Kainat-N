@@ -1,20 +1,17 @@
-## Hi there 👋
-I'm **Kainat Nasir**, a Computer Science student at FAST-NUCES.
-I like Machine Learning 💻, Computer Vision 👁️ and Robots 🤖.  
-Currently exploring the exciting world of AI, APIs (and hopefully robotics in the future!)
+Hi! I'm **Kainat Nasir**, a Computer Science student at FAST-NUCES.
 
-## 🚀 Projects
+## Projects
 
-## 🔍 Machine Learning Projects
+## Machine Learning Projects
 - [Cat & Dog Breed Identifier - App](https://github.com/Kainat-N/whats-my-breed)
 - [Cat & Dog Breed Identifier - Website](https://github.com/Kainat-N/Web-Whats_My_Breed)
 - [Anime Chatbot](https://github.com/Kainat-N/Anime_Chatbot)
 
-## 🌐 Web Development
+## Web Development
 - [Book My Table](https://github.com/Kainat-N/BookMyTable)
 - [Flavora]
 
-## 🎮 Games
+## Games
 - [GatoGelato]
 - [Wordimals]
 - [Tetris]
