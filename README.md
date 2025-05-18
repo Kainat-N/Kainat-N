@@ -7,12 +7,12 @@
 
 ## 🌐 Web Development
 - [Book My Table](https://github.com/Kainat-N/BookMyTable)
-- [Flavora]()
+- [Flavora]
 
 ## 🎮 Games
 - [GatoGelato]
-- [Wordimals]()
-- [Tetris]()
+- [Wordimals]
+- [Tetris]
 
 <!--
 **Kainat-N/Kainat-N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
