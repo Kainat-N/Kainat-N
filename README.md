@@ -1,7 +1,6 @@
 Hi! I'm **Kainat Nasir**, a Computer Science student at FAST-NUCES.
 
 Adding Everything here (for editing):
-- [AI-Lab-10-KMeans-Tavus](https://github.com/Kainat-N/AI_Lab10_KMeans_Tavus)
 - [Anime_Chatbot-and-AI-Lab-11](https://github.com/Kainat-N/Anime_Chatbot)
 - [DRS Project](https://github.com/Kainat-N/DRS-Project)
 - [vplforge_docs](https://github.com/Kainat-N/vplforge_docs)
@@ -26,6 +25,7 @@ Adding Everything here (for editing):
 
 
 ## AI Labs
+- [AI-Lab-10-KMeans-Tavus](https://github.com/Kainat-N/AI_Lab10_KMeans_Tavus)
 - [AI-Lab9](https://github.com/Kainat-N/AI_Lab9)
 - [AI_Lab8](https://github.com/Kainat-N/AI_Lab8_2025)
 - [AI_Lab7](https://github.com/Kainat-N/AI_Lab7)
