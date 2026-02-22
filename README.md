@@ -23,19 +23,6 @@ Adding Everything here (for editing):
 - [Wordimals]
 - [Tetris]
 
-
-## AI Labs
-- [AI-Lab-10-KMeans-Tavus](https://github.com/Kainat-N/AI_Lab10_KMeans_Tavus)
-- [AI-Lab9](https://github.com/Kainat-N/AI_Lab9)
-- [AI_Lab8](https://github.com/Kainat-N/AI_Lab8_2025)
-- [AI_Lab7](https://github.com/Kainat-N/AI_Lab7)
-- [AI-Lab6](https://github.com/Kainat-N/AI_Lab6_2025)
-- [AI-Lab5](https://github.com/Kainat-N/AI_Lab5-2025)
-- [AI-Lab3](https://github.com/Kainat-N/AI-Lab3)
-- [AI-Lab2](https://github.com/Kainat-N/AI-Lab2)
-- [AI-Lab1](https://github.com/Kainat-N/AI-Lab1)
-- [AI-Assignment-2025-Empty](https://github.com/Kainat-N/AI_Assignments_2025)
-
 <!--
 **Kainat-N/Kainat-N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
