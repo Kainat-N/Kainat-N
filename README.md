@@ -1,11 +1,5 @@
 Hi! I'm **Kainat Nasir**, a Computer Science student at FAST-NUCES.
 
-Adding Everything here (for editing):
-- [Anime_Chatbot-and-AI-Lab-11](https://github.com/Kainat-N/Anime_Chatbot)
-- [DRS Project](https://github.com/Kainat-N/DRS-Project)
-- [vplforge_docs](https://github.com/Kainat-N/vplforge_docs)
-- [Fruits-Game-Unity](https://github.com/Kainat-N/Fruits-Game-Unity-3D-)
-
 
 ## Projects
 
@@ -22,6 +16,12 @@ Adding Everything here (for editing):
 - [GatoGelato]
 - [Wordimals]
 - [Tetris]
+
+Adding Everything here (for editing):
+- [Anime_Chatbot-and-AI-Lab-11](https://github.com/Kainat-N/Anime_Chatbot)
+- [DRS Project](https://github.com/Kainat-N/DRS-Project)
+- [vplforge_docs](https://github.com/Kainat-N/vplforge_docs)
+- [Fruits-Game-Unity](https://github.com/Kainat-N/Fruits-Game-Unity-3D-)
 
 <!--
 **Kainat-N/Kainat-N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
