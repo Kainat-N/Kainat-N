@@ -23,6 +23,15 @@ Adding Everything here (for editing):
 - [vplforge_docs](https://github.com/Kainat-N/vplforge_docs)
 - [Fruits-Game-Unity](https://github.com/Kainat-N/Fruits-Game-Unity-3D-)
 
+
+## Upcoming Projects: 
+1. Object Tracking
+2. Activity Classification
+3. NLP
+4. CS Notes
+5. Leetcode Runs
+6. Kaggle Competitions
+
 <!--
 **Kainat-N/Kainat-N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
