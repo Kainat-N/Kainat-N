@@ -31,6 +31,7 @@ Adding Everything here (for editing):
 4. CS Notes
 5. Leetcode Runs
 6. Kaggle Competitions
+7. CV-based cursor replacement
 
 <!--
 **Kainat-N/Kainat-N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
